@@ -1,0 +1,13 @@
+-,Name,Power,Size,Type
+0,Goblin,2,Small,Strength
+1,Orc,4,Medium,Strength
+2,Ogre,6,Large,Strength
+3,Hobgoblin,5,Medium,Strength
+10,Wolf,3,Medium,Strength
+11,Dire Wolf,5,Large,Strength
+20,Brigand,4,Medium,Strength
+30,Witch,5,Medium,Spirit
+31,Skeleton,3,Medium,Strength
+32,Zombie,2,Medium,Strength
+33,Demon,6,Large,Spirit
+34,Imp,3,Small,Spirit

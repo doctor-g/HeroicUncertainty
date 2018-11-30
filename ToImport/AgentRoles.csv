@@ -1,0 +1,23 @@
+-,Role,Gender
+0,"Housewife",Female
+1,"Butcher",Male
+2,"Barmaid",Female
+3,"Guardsman",Male
+4,"Pauper",Either
+5,"Blacksmith",Male
+6,"Scholar",Male
+7,"Farmer",Either
+8,"Noble",Either
+9,"Page",Male
+10,"Lady in Waiting",Female
+11,"Knight Errant",Male
+12,"Weaver",Either
+13,"Thatcher",Either
+14,"Fletcher",Either
+15,"Dogsbody",Male
+16,"Beggar",Either
+17,"Widow",Female
+18,"Drunk",Male
+19,"Troublemaker",Male
+20,"Ruffian",Male
+21,"Urchin",Either
